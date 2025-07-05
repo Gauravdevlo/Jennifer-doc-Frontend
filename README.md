@@ -3,7 +3,7 @@
 This is a professional portfolio and informational website for **Dr. Serena Blake, PsyD**, a Clinical Psychologist, built using **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
 ## 🌐 Live Demo
-[Live Link]](https://jennifer-doc-frontend.vercel.app/)
+[[Live Link]](https://jennifer-doc-frontend.vercel.app/)
 
 ---
 
